@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\tryCatch\tryCatch\bin\Debug\tryCatch.exe.config
+c:\users\1\documents\visual studio 2017\Projects\tryCatch\tryCatch\bin\Debug\tryCatch.exe
+c:\users\1\documents\visual studio 2017\Projects\tryCatch\tryCatch\bin\Debug\tryCatch.pdb
+c:\users\1\documents\visual studio 2017\Projects\tryCatch\tryCatch\obj\Debug\tryCatch.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\tryCatch\tryCatch\obj\Debug\tryCatch.exe
+c:\users\1\documents\visual studio 2017\Projects\tryCatch\tryCatch\obj\Debug\tryCatch.pdb
